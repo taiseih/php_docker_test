@@ -1,0 +1,7 @@
+todo
+id [PK]
+text
+created_at
+updated_at
+
+
